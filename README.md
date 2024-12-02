@@ -8,3 +8,5 @@
 | 3 | Лаба 3. Соревнование: рекомендация фильмов на основе данных об истории телесмотрения | [lab03](https://github.com/INESSAZ7/Spark_for_DA/blob/main/lab03_v2.ipynb)
 | 4 | Лаба 4. Прогнозирование пола и возрастной категории пользователей на основе логов посещений в real-time | [lab04](https://github.com/INESSAZ7/Spark_for_DA/blob/main/lab04_final.ipynb)
 | 5 | Лаба 5. Прогнозирование оттока клиентов | [lab05](https://github.com/INESSAZ7/Spark_for_DA/blob/main/lab05.ipynb)
+
+![Сертификат](https://github.com/INESSAZ7/Spark_for_DA/blob/main/Sertificate.png)
